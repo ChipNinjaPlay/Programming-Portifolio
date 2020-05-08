@@ -1,11 +1,10 @@
 # portifolio
-Projetos de programação realizados durante minha vida
 
-* Udacity Data Science 
+* Udacity Data Science Course Projects
 
-* UEA Software Development
+* UEA Hefesto Software Development 
 
-* Estatística
+* Estatistics
 
 * PostgreSQL
 
@@ -17,6 +16,6 @@ Projetos de programação realizados durante minha vida
 
 * Front-End - HTML - CSS - Bootstrap
 
-* Back-End - Ruby On Rails
+* Back-End - Ruby On Rails, PHP
 
 
