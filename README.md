@@ -1,21 +1,3 @@
-# portifolio
-
-* Udacity Data Science Course Projects
-
-* UEA Hefesto Software Development 
-
-* Estatistics
-
-* PostgreSQL
-
-* Python
-
-* C
-
-* Javascript
-
-* Front-End - HTML - CSS - Bootstrap
-
-* Back-End - Ruby On Rails, PHP
+Here I put the things i learned and developed by separating it in types like web programming, app development and so on, if possible separating by programming language/markup language. 
 
 
